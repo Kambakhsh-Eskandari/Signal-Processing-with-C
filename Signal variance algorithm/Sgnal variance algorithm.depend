@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680435879 source:c:\users\kambakhsh\desktop\github\signal-processing-with-c\sgnal variance algorithm\waveform.c
+
+1533551856 source:c:\users\kambakhsh\desktop\github\signal-processing-with-c\sgnal variance algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
